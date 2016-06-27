@@ -1,4 +1,4 @@
-# [Kamp Icons](http://finiteicons.com)
+# [Kamp Icons](http://kampicons.com)
 ### A set of 35 camping themed SVG icons.
 
 
